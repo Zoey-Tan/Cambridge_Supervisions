@@ -28,5 +28,5 @@ int main(void) {
 	printf("%d\n",sum);  // Print the sum
 	return 0;
 
-	//Time: real 0.11s sys 0.016s
+	//Time: 0.176s
 }
